@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rod
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning js and python
 
 <!---
