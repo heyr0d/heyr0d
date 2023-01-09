@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rod
 - 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning cryptography with python
+- 🌱 I’m currently learning cryptography 🔐 with python 🐍
 
 <!---
 heyr0d/heyr0d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
